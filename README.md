@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RonFredericks
-- 👀 I’m interested in the technology used in Biophysics Labs
-- 🌱 I’m currently learning MATLAB for signal analysis and electronics for instrument design
-- 💞️ I’m looking to collaborate on instrument development for support for research laboratories
+- 👀 I collaborate with laboratories and scientists in the food and health industries. 
+- 🌱 I’m currently focused on signal analysis, improved instrument design, and microbiological sensing technologies that help safeguard our environment.
 - 📫 I can be reached from by website: www.BiophysicsLab.com
 
 <!---
